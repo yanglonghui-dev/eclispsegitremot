@@ -8,6 +8,8 @@ public class gitDemo {
 		//本地改的+远端改的
 
 		//aaa+bbb
+		
+		//本地也改了
 
 	}
 
