@@ -4,7 +4,7 @@ public class gitDemo {
 
 	public static void main(String[] args) {
 		//sssss
-		//µÚÈı´ÎÌá½»
+		//ç¬¬å››æ¬¡æäº¤
 
 	}
 
